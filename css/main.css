@@ -17,10 +17,23 @@ html {
   box-sizing: inherit;
 }
 
-.body {
+body {
   margin: 0;
+  font-family: "Open Sans",sans-serif;
 }
 
-.main {
+.watermelon push-1-2 pad-t-1-2 {
+  background-color: #e97065;
+}
+
+starfruit push-1-2 pad-t-1-2 {
+  background-color: #fbd25e;
+}
+
+persimmon push-1-2 pad-t-1-2 {
+  background-color: #e86033;
+}
+
+main {
   background-color: #e97065;
 }
